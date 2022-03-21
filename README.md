@@ -1,11 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">BuTaMuH</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Developer from Russia 🇷🇺</h3>
-<hr>
-<div class="row">
-<img src="https://activity-graph.herokuapp.com/graph?username=zombieserv&theme=github" style="width: 495px; height: 195px;">
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=zombieserv&theme=vue-dark&date_format=j%20M%5B%20Y%5D">
-</div>
 
 <h3>Skills</h3>
 <h4>Frontend</h4>
