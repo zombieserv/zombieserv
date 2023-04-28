@@ -5,38 +5,38 @@
 ## ⌨️ Skills
 <h4>Frontend</h4>
 <div class="row">
-  <img src="https://img.shields.io/badge/HTML5-7%20year-informational.svg?style=plactic&logo=html5&logoColor=f26529&color=f26529">
+  <img src="https://img.shields.io/badge/HTML5-10%20year-informational.svg?style=plactic&logo=html5&logoColor=f26529&color=f26529">
   <img src="https://img.shields.io/badge/Pug-FFF?style=plactic&logo=pug&logoColor=A86454">
   <br>
-  <img src="https://img.shields.io/badge/JavaScript-7%20year-informational.svg?style=plactic&logo=javascript&logoColor=f7e01d&color=f7e01d">
+  <img src="https://img.shields.io/badge/JavaScript-9.5%20year-informational.svg?style=plactic&logo=javascript&logoColor=f7e01d&color=f7e01d">
   <img src="https://img.shields.io/badge/JQuery-6%20year-informational.svg?style=plactic&logo=jquery&logoColor=0099de&color=0099de">
   <br>
-  <img src="https://img.shields.io/badge/CSS3-7%20year-informational.svg?style=plactic&logo=css3&logoColor=1599ea&color=1599ea">
-  <img src="https://img.shields.io/badge/SASS-4%20year-informational.svg?style=plactic&logo=SASS&logoColor=cd5387&color=cd5387">
-  <img src="https://img.shields.io/badge/Bootstrap-5%20year-informational.svg?style=plactic&logo=bootstrap&logoColor=a655f2&color=8914f9">
+  <img src="https://img.shields.io/badge/CSS3-10%20year-informational.svg?style=plactic&logo=css3&logoColor=1599ea&color=1599ea">
+  <img src="https://img.shields.io/badge/SASS-5%20year-informational.svg?style=plactic&logo=SASS&logoColor=cd5387&color=cd5387">
+  <img src="https://img.shields.io/badge/Bootstrap-6%20year-informational.svg?style=plactic&logo=bootstrap&logoColor=a655f2&color=8914f9">
 </div>
   
 <h4>Backend</h4>
 <div class="row">
-  <img src="https://img.shields.io/badge/Node.js-5%20year-informational?style=plactic&logo=node.js&logoColor=6DA55F&color=6DA55F">
-  <img src="https://img.shields.io/badge/Express.js-3%20year-informational.svg?style=plactic&logo=express&logoColor=232421&color=33342f">
-  <img src="https://img.shields.io/badge/Electron-3%20year-informational?style=plactic&logo=Electron&logoColor=9de8f7&color=9de8f7">
-  <img src="https://img.shields.io/badge/TypeScript-2%20year-informational.svg?style=plactic&logo=typescript&logoColor=107ec7&color=107ec7"><br>
-  <img src="https://img.shields.io/badge/PHP-7%20year-informational.svg?style=plactic&logo=php&logoColor=8a93bd&color=8a93bd">
-  <img src="https://img.shields.io/badge/Laravel-3%20year-informational.svg?style=plactic&logo=laravel&logoColor=f35146&color=f35146"><br>
-  <img src="https://img.shields.io/badge/Django-0.3%20year-informational.svg?style=plactic&logo=django&logoColor=0a2e20&color=0a2e20">
+  <img src="https://img.shields.io/badge/Node.js-6%20year-informational?style=plactic&logo=node.js&logoColor=6DA55F&color=6DA55F">
+  <img src="https://img.shields.io/badge/Express.js-4%20year-informational.svg?style=plactic&logo=express&logoColor=232421&color=33342f">
+  <img src="https://img.shields.io/badge/Electron-4%20year-informational?style=plactic&logo=Electron&logoColor=9de8f7&color=9de8f7">
+  <img src="https://img.shields.io/badge/TypeScript-3%20year-informational.svg?style=plactic&logo=typescript&logoColor=107ec7&color=107ec7"><br>
+  <img src="https://img.shields.io/badge/PHP-8%20year-informational.svg?style=plactic&logo=php&logoColor=8a93bd&color=8a93bd">
+  <img src="https://img.shields.io/badge/Laravel-4%20year-informational.svg?style=plactic&logo=laravel&logoColor=f35146&color=f35146"><br>
+  <img src="https://img.shields.io/badge/Django-1.3%20year-informational.svg?style=plactic&logo=django&logoColor=0a2e20&color=0a2e20">
   <img src="https://img.shields.io/badge/Django-REST-ff1709?style=plactic&logo=django&logoColor=0a2e20&color=285e4a&labelColor=gray"><br>
-  <img src="https://img.shields.io/badge/C%23-9%20year-informational.svg?style=plactic&logo=c-sharp&logoColor=9a4f96&color=9a4f96">
+  <img src="https://img.shields.io/badge/C%23-10%20year-informational.svg?style=plactic&logo=c-sharp&logoColor=9a4f96&color=9a4f96">
 </div>
 
 <h4>Databases</h4>
 <div class="row">
-  <img src="https://img.shields.io/badge/MySQL-7%20year-informational.svg?style=plactic&logo=mysql&logoColor=e87a03&color=e87a03">
-  <img src="https://img.shields.io/badge/MariaDB-7%20year-informational?style=plactic&logo=mariadb&logoColor=c39b6d&color=c39b6d"><br>
-  <img src="https://img.shields.io/badge/MongoDB-1%20year-informational.svg?style=plactic&logo=mongodb&logoColor=34ea94b&color=34ea94b">
-  <img src="https://img.shields.io/badge/PostgreSQL-0.5%20year-informational.svg?style=plactic&logo=postgresql&logoColor=1c3345&color=326790"><br>
-  <img src="https://img.shields.io/badge/SQLite-3%20year-informational.svg?style=plactic&logo=sqlite&logoColor=64b8e7&color=64b8e7">
-  <img src="https://img.shields.io/badge/Redis-1%20year-informational.svg?style=plactic&logo=redis&logoColor=d92c20&color=d92c20">
+  <img src="https://img.shields.io/badge/MySQL-8%20year-informational.svg?style=plactic&logo=mysql&logoColor=e87a03&color=e87a03">
+  <img src="https://img.shields.io/badge/MariaDB-8%20year-informational?style=plactic&logo=mariadb&logoColor=c39b6d&color=c39b6d"><br>
+  <img src="https://img.shields.io/badge/MongoDB-2%20year-informational.svg?style=plactic&logo=mongodb&logoColor=34ea94b&color=34ea94b">
+  <img src="https://img.shields.io/badge/PostgreSQL-1.5%20year-informational.svg?style=plactic&logo=postgresql&logoColor=1c3345&color=326790"><br>
+  <img src="https://img.shields.io/badge/SQLite-4%20year-informational.svg?style=plactic&logo=sqlite&logoColor=64b8e7&color=64b8e7">
+  <img src="https://img.shields.io/badge/Redis-2%20year-informational.svg?style=plactic&logo=redis&logoColor=d92c20&color=d92c20">
 </div>
 
 ## 🔧 Tools
