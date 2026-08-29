@@ -1,86 +1,83 @@
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">BuTaMuH</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Developer from Russia 🇷🇺</h3>
+<h1 align="center">Hi, I'm BuTaMuH 👋</h1>
+<h3 align="center">Python Backend Developer / Tech Lead</h3>
 
-## ⌨️ Skills
-<h4>Frontend</h4>
-<div class="row">
-  <img src="https://img.shields.io/badge/HTML5-10%20year-informational.svg?style=plactic&logo=html5&logoColor=f26529&color=f26529">
-  <img src="https://img.shields.io/badge/Pug-FFF?style=plactic&logo=pug&logoColor=A86454">
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-9.5%20year-informational.svg?style=plactic&logo=javascript&logoColor=f7e01d&color=f7e01d">
-  <img src="https://img.shields.io/badge/JQuery-6%20year-informational.svg?style=plactic&logo=jquery&logoColor=0099de&color=0099de">
-  <br>
-  <img src="https://img.shields.io/badge/CSS3-10%20year-informational.svg?style=plactic&logo=css3&logoColor=1599ea&color=1599ea">
-  <img src="https://img.shields.io/badge/SASS-5%20year-informational.svg?style=plactic&logo=SASS&logoColor=cd5387&color=cd5387">
-  <img src="https://img.shields.io/badge/Bootstrap-6%20year-informational.svg?style=plactic&logo=bootstrap&logoColor=a655f2&color=8914f9">
-</div>
-  
-<h4>Backend</h4>
-<div class="row">
-  <img src="https://img.shields.io/badge/Node.js-6%20year-informational?style=plactic&logo=node.js&logoColor=6DA55F&color=6DA55F">
-  <img src="https://img.shields.io/badge/Express.js-4%20year-informational.svg?style=plactic&logo=express&logoColor=232421&color=33342f">
-  <img src="https://img.shields.io/badge/Electron-4%20year-informational?style=plactic&logo=Electron&logoColor=9de8f7&color=9de8f7">
-  <img src="https://img.shields.io/badge/TypeScript-3%20year-informational.svg?style=plactic&logo=typescript&logoColor=107ec7&color=107ec7"><br>
-  <img src="https://img.shields.io/badge/PHP-8%20year-informational.svg?style=plactic&logo=php&logoColor=8a93bd&color=8a93bd">
-  <img src="https://img.shields.io/badge/Laravel-4%20year-informational.svg?style=plactic&logo=laravel&logoColor=f35146&color=f35146"><br>
-  <img src="https://img.shields.io/badge/Django-1.3%20year-informational.svg?style=plactic&logo=django&logoColor=0a2e20&color=0a2e20">
-  <img src="https://img.shields.io/badge/Django-REST-ff1709?style=plactic&logo=django&logoColor=0a2e20&color=285e4a&labelColor=gray"><br>
-  <img src="https://img.shields.io/badge/C%23-10%20year-informational.svg?style=plactic&logo=c-sharp&logoColor=9a4f96&color=9a4f96">
-</div>
+<p align="center">
+  Building backend systems, APIs, Telegram services and data-heavy products.<br>
+  Production experience with distributed systems, async Python and technical leadership.
+</p>
 
-<h4>Databases</h4>
-<div class="row">
-  <img src="https://img.shields.io/badge/MySQL-8%20year-informational.svg?style=plactic&logo=mysql&logoColor=e87a03&color=e87a03">
-  <img src="https://img.shields.io/badge/MariaDB-8%20year-informational?style=plactic&logo=mariadb&logoColor=c39b6d&color=c39b6d"><br>
-  <img src="https://img.shields.io/badge/MongoDB-2%20year-informational.svg?style=plactic&logo=mongodb&logoColor=34ea94b&color=34ea94b">
-  <img src="https://img.shields.io/badge/PostgreSQL-1.5%20year-informational.svg?style=plactic&logo=postgresql&logoColor=1c3345&color=326790"><br>
-  <img src="https://img.shields.io/badge/SQLite-4%20year-informational.svg?style=plactic&logo=sqlite&logoColor=64b8e7&color=64b8e7">
-  <img src="https://img.shields.io/badge/Redis-2%20year-informational.svg?style=plactic&logo=redis&logoColor=d92c20&color=d92c20">
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zombieserv&style=flat-square" alt="Profile views" />
+</p>
 
-## 🔧 Tools
-<h4>Instruments</h4>
-<div class="row">
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=plactic&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=plactic&logo=gulp&logoColor=white">
-  <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=plactic&logo=webpack&logoColor=black">
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=plactic&logo=Sequelize&logoColor=white">
-  <img src="https://img.shields.io/badge/JWT-black?style=plactic&logo=JSON%20web%20tokens"><br>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plactic&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-%23121011.svg?style=plactic&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Gitlab-%23181717.svg?style=plactic&logo=gitlab&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plactic&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plactic&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=plactic&logo=nginx&logoColor=white">
-</div>
+## 👨‍💻 About me
 
-<h4>IDE</h4>
-<div class="row">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plactic&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plactic&logo=visual-studio&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Pycharm-143?style=plactic&logo=pycharm&logoColor=black&color=black&labelColor=green">
-  <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=plactic&logo=atom&logoColor=white">  
-</div>
+- 🐍 Python backend developer focused on production services and APIs
+- 🧭 Tech Lead experience: architecture, decomposition, code review, onboarding and mentoring
+- ⚡ Async stack: FastAPI, SQLAlchemy 2.x, aiogram 3, async database drivers
+- 🧱 Worked on service decomposition, domain-layer separation and horizontal scaling preparation
+- 🗃️ Experience with PostgreSQL → MySQL migrations and production data backfills
+- 📡 Event-driven systems with Kafka, NATS, Redis and background workers
+- 📊 Data-intensive systems with ClickHouse
+- 🐳 Docker, Nginx, CI/CD and production troubleshooting
+- 🤖 Actively use AI-assisted development for research, review, debugging and implementation
 
-<h4>OS</h4>
-<div class="row">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=plactic&logo=windows&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=plactic&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plactic&logo=ubuntu&logoColor=white">
-</div>
+## 🧰 Main stack
 
-## 📊 Metrics
+### Backend
+![Python](https://img.shields.io/badge/Python-~5%20years-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-production-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-~4%20years-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-API-A30000?style=flat-square&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.x-D71F00?style=flat-square)
+![aiogram](https://img.shields.io/badge/aiogram-3.x-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-background%20jobs-37814A?style=flat-square&logo=celery&logoColor=white)
 
-![GitHub metrics](https://metrics.lecoq.io/zombieserv)   
+### Databases & messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-~5%20years-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-~8%20years-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-~8%20years-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-~5%20years-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-production-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-event%20streaming-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-messaging-27AAE1?style=flat-square&logo=natsdotio&logoColor=white)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zombieserv&theme=monokai"><br><br>
-<a href="https://github.com/zombieserv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zombieserv&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a><br><br>
-<a href="https://github.com/zombieserv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zombieserv&layout=compact&hide_border=true&theme=dark" /></a>
+### Infrastructure
+![Docker](https://img.shields.io/badge/Docker-production-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## ✉️ Contact
-<a href="https://t.me/zombieserv">![](https://img.shields.io/badge/Telegram-zombieserv-informational?style=flat&logo=telegram&logoColor=26A5E4&color=26A5E4)</a>
+### Also worked with
+![TypeScript](https://img.shields.io/badge/TypeScript-~5%20years-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-~10%20years-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-~9%20years-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-~5%20years-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-<hr>
+## 🚀 What I've been working on
 
-![Profile views](https://gpvc.arturio.dev/zombieserv)
+- Designed and developed backend flows for a Telegram advertising marketplace: deals, creatives, moderation, payments and documents
+- Refactored business logic away from API layers and reviewed large production changes end-to-end
+- Worked on reliability and horizontal-scaling preparation for backend services
+- Migrated backend code and data from PostgreSQL-specific patterns toward MySQL, including enums, JSON, decimals, UTC handling and generated columns
+- Built PDF document generation and B2B billing flows
+- Worked with Redis clustering, Kafka health checks, Sentry-driven debugging and service observability
+- Mentored developers, reviewed pull requests, decomposed features and maintained engineering tasks
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zombieserv&theme=github_dark" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zombieserv&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zombieserv&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+</p>
+
+## 📫 Contact
+
+[![Telegram](https://img.shields.io/badge/Telegram-@zombieserv-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zombieserv)
